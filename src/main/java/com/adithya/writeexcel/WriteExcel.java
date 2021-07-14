@@ -38,6 +38,5 @@ public class WriteExcel {
                                             , fieldSeparator);
         fileparse.setFileParserLog(logger);
         fileparse.ParseWriteFile();
-    }
- 
+    } 
 }

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 13 22:53:34 EDT 2021
+writeexcel-1.0-SNAPSHOT-shaded.jar>=
+writeexcel-1.0-SNAPSHOT.jar>=
+writeexcel-1.0-SNAPSHOT-spring-boot.jar>=
+writeexcel-1.0-SNAPSHOT.pom>=
